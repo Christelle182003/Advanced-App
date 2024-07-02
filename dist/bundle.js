@@ -1,0 +1,1 @@
+(()=>{"use strict";document.body.appendChild(function(){const e=document.createElement("header");return e.innerHTML="<h1>Welcome to Advanced App</h1>",e}()),document.body.appendChild(function(){const e=document.createElement("footer");return e.innerHTML="<p>&copy; 2024 Advanced App</p>",e}())})();
